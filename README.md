@@ -23,7 +23,7 @@
         Social Network Ads
         
         (Python Files)
-        K- Nearest Neighbor
+        K - Nearest Neighbor
         Gaussian SVM
         Naive Bayes
         Decision Tree
