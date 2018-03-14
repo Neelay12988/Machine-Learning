@@ -9,13 +9,13 @@
         Social Network Ads
 
         (Python Files)
-        Decision Tree
-        Gradient Boosting
-        Logistic
-        Multiple Linear
-        Random Forest
         Simple Linear
-        
+        Multiple Linear
+        Logistic
+        SVR
+        Decision Tree
+        Random Forest
+        Gradient Boosting
 
   Classification Models:
 
@@ -23,8 +23,8 @@
         Social Network Ads
         
         (Python Files)
-        Decision Tree
+        K- Nearest Neighbor
         Gaussian SVM
-        KNN
         Naive Bayes
+        Decision Tree
         Random Forest
