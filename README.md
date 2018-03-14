@@ -3,6 +3,7 @@
 Catalog:
 
   Regression Models:
+  
         (Data Files)
         50 Startups
         Position Salaries
@@ -19,6 +20,7 @@ Catalog:
         
 
   Classification Models:
+
         (Data Files)
         Social Network Ads
         
