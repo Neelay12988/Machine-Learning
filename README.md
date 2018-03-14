@@ -1,6 +1,4 @@
-# Machine Learning
-
-Catalog:
+# Machine Learning Catalog
 
   Regression Models:
   
