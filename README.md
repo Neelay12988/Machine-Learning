@@ -8,7 +8,7 @@
         Salary Data
         Social Network Ads
 
-        (Python Files)
+        (Implementation files: in Python and R)
         Simple Linear
         Multiple Linear
         Logistic
@@ -22,7 +22,7 @@
         (Data Files)
         Social Network Ads
         
-        (Python Files)
+        (Implementation files: in Python and R)
         K - Nearest Neighbor
         Gaussian SVM
         Naive Bayes
