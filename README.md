@@ -28,3 +28,11 @@
         Naive Bayes
         Decision Tree
         Random Forest
+
+ Natural Language Processing Models:
+
+        (Data Files)
+        Social Network Ads
+        
+        (Implementation files: in Python and R)
+        Natural Language Processing
