@@ -11,6 +11,7 @@ dataset = pd.read_csv('Restaurant_Reviews.tsv', delimiter = '\t', quoting = 3)
 # Cleaning the texts
 import re
 import nltk
+# This imports the stop words to be eliminated
 nltk.download('stopwords')
 from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer
