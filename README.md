@@ -32,7 +32,7 @@
  Natural Language Processing Models:
 
         (Data Files)
-        Social Network Ads
+        Restaurant Reviews
         
         (Implementation files: in Python and R)
         Natural Language Processing
